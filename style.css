@@ -1,0 +1,100 @@
+.container {
+    text-align: center;
+}
+.Gaurav {
+    font-size: 100px;
+    margin-top: 15%;
+}
+.Self {
+    font-size: 25px;
+}
+.LAMP,
+u {
+    color: red;
+}
+/*-------About----------*/
+.A {
+    font-size: 75px;
+    margin-top: 20%;
+    margin-left: 40%;
+}
+.d {
+    height: 90px;
+    width: 100%;
+    padding-left: 34px;
+    font-size: 20px;
+}
+.Skill {
+    box-sizing: border-box
+}
+.c {
+    width: 100%;
+    background-color: rgb(184, 178, 178);
+}
+.skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+.html {
+    width: 90%;
+    background-color: #04AA6D;
+}
+.css {
+    width: 80%;
+    background-color: #2196F3;
+}
+.js {
+    width: 65%;
+    background-color: #f44336;
+}
+.php {
+    width: 60%;
+    background-color: #808080;
+}
+.LINUX {
+    width: 70%;
+    background-color: #472727;
+}
+.M {
+    font-size: 75px;
+    margin-top: 5%;
+    margin-left: 40%;
+}
+.E {
+    font-size: 75px;
+    margin-top: 5%;
+    margin-left: 40%;
+}
+.g {
+    height: 90px;
+    width: 100%;
+    padding-left: 34px;
+    font-size: 20px;
+}
+.pro {
+    font-size: 75px;
+    margin-top: 5%;
+    margin-left: 40%;
+}
+.proj {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.card {
+    margin: 50px;
+}
+.foot {
+    background-color: #d9d7d7;
+    font-size: large;
+    text-align: center;
+}
+#btn {
+    background-color: #2F3C7E;
+    color: #FBEAEB;
+    border: solid black;
+    border-radius: 35%;
+    margin-left: 45%;
+}
